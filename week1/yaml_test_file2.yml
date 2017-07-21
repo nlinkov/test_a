@@ -1,0 +1,23 @@
+---
+
+key1: value1
+key2: value2
+key3: value3
+ip_addr: 10.10.10.1
+username: admin
+password: whatever
+device_type: ios
+my_list:
+    - some value
+    - 10
+    - True
+    - no
+    - 'whatever'
+    - ip_addr: 10.10.10.1
+      username: admin
+      password: whatever
+      device_type: ios
+    - ip_addr: 10.10.10.2
+      username: admin
+      password: whatever
+      device_type: srx
